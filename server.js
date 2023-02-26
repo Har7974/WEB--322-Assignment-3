@@ -5,9 +5,9 @@
 * 
 *  Name: Harmish Patel Student ID: 15456212  Date: 26/02/2023
 *
-*  Cyclic Web App URL: ________________________________________________________
+*  Cyclic Web App URL: https://hat-ray.cyclic.app/
 *
-*  GitHub Repository URL: ______________________________________________________
+*  GitHub Repository URL: https://github.com/Har7974/WEB--322-Assignment-3
 *
 ********************************************************************************/ 
 
